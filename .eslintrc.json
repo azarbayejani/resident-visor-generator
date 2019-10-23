@@ -1,0 +1,4 @@
+{
+  "ecmaVersion": "9",
+  "extends": "airbnb"
+}
