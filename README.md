@@ -11,6 +11,8 @@ Mockup Generator API and imagemagick.
 
 See Printful Mockup Generator API [here](https://www.printful.com/docs/generator).
 
+You need to have a Printful API key as env variable `PRINTFUL_API_KEY`
+
 ### Limitations
 
 The mockup generator API only allows 10 requests every 60 seconds, and locks you out after 60
